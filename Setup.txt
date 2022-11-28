@@ -1,0 +1,19 @@
+Take-Home Frontend assignment Setup Instructions:
+
+My app uses react native and was developed on iOS so you will need Expo to run the project.
+
+Install expo here: https://docs.expo.dev/get-started/installation/
+
+Install a phone simulator or download the Expo Go app on your phone and connect it your computer
+
+Either clone the project or download the zip file for the project
+
+Open the project into your preferred IDE
+
+In your terminal navigate to the project’s directory
+
+Type the command npx expo start
+
+You may have to try sudo npx expo start if the permission is denied
+
+Then type the command prompted from the Metro bundler either for iOS or Android
